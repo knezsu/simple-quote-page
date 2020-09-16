@@ -34,4 +34,14 @@ body{
 }
 
 
+@media (max-width:900px) {
+  .text {
+    font-size: 150%;
+  }
+}
 
+@media (min-width:1800px) {
+  .container{
+    padding-top: 10rem;
+  }
+}
